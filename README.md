@@ -54,8 +54,8 @@ If you’re a client reviewing this portfolio:
 
 ## Contact
 - GitHub: https://github.com/eliseoneo
-- LinkedIn: (add link)
-- Email: (add email)
+- LinkedIn: eliseogelvis
+- Email: eliseogelvis@gmail.com
 
 
 

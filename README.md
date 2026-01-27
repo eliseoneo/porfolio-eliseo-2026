@@ -37,7 +37,13 @@ Implementation details and client-sensitive material remain private.
    Spec: [`projects/anomaly-detection-time-series-logs/README.md`](projects/anomaly-detection-time-series-logs/README.md)
 
 8) **Mafdet Platform Architecture (Observability + AI Analytics)**  
-   Spec: [`projects/mafdet-observability-ai-platform/README.md`](projects/mafdet-observability-ai-platform/README.md)   
+   Spec: [`projects/mafdet-observability-ai-platform/README.md`](projects/mafdet-observability-ai-platform/README.md)
+
+9) **MLflow Tracking: SQLite → MySQL Migration**  
+   Spec: [`projects/mlflow-tracking-mysql-migration/README.md`](projects/mlflow-tracking-mysql-migration/README.md)
+
+10) **PDF Alteration Detection with Autoencoders (Research Spec)**  
+   Spec: [`projects/pdf-alteration-detection-autoencoders/README.md`](projects/pdf-alteration-detection-autoencoders/README.md)      
 
 ---
 

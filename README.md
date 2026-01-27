@@ -103,5 +103,7 @@ I help teams design, build, and operate **reliable distributed systems** and **o
 ### Confidentiality
 This repository is intentionally **spec-level** and sanitized. I do not publish client identifiers, real logs, credentials, or production endpoints. Detailed implementation and private demos can be shared under NDA.
 
+Test push without SSH key.
+
 
 

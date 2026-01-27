@@ -33,6 +33,12 @@ Implementation details and client-sensitive material remain private.
 6) **Semantic Graph Analytics for Email/Calendar Workload**  
    Spec: [`projects/semantic-graph-analytics/README.md`](projects/semantic-graph-analytics/README.md)
 
+7) **Anomaly Detection: Time Series + Logs**  
+   Spec: [`projects/anomaly-detection-time-series-logs/README.md`](projects/anomaly-detection-time-series-logs/README.md)
+
+8) **Mafdet Platform Architecture (Observability + AI Analytics)**  
+   Spec: [`projects/mafdet-observability-ai-platform/README.md`](projects/mafdet-observability-ai-platform/README.md)   
+
 ---
 
 ## Engagement

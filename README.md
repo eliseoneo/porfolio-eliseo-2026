@@ -43,7 +43,10 @@ Implementation details and client-sensitive material remain private.
    Spec: [`projects/mlflow-tracking-mysql-migration/README.md`](projects/mlflow-tracking-mysql-migration/README.md)
 
 10) **PDF Alteration Detection with Autoencoders (Research Spec)**  
-   Spec: [`projects/pdf-alteration-detection-autoencoders/README.md`](projects/pdf-alteration-detection-autoencoders/README.md)      
+   Spec: [`projects/pdf-alteration-detection-autoencoders/README.md`](projects/pdf-alteration-detection-autoencoders/README.md)
+
+11) **Recursive Language Model + Graph/Vector Optimization (Algorithm Selection Research)**  
+    Spec: [`projects/recursive-language-model-graph-vector-optimization/README.md`](projects/recursive-language-model-graph-vector-optimization/README.md)         
 
 ---
 

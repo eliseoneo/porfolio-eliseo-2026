@@ -1,5 +1,7 @@
 # Eliseo — Project Portfolio (2026)
 
+📌 Full project index: [`projects/README.md`](projects/README.md)
+
 Backend / Platform engineer focused on distributed systems, observability, and applied ML/LLM pipelines.
 This repository is a **public portfolio**: short, client-friendly specifications of selected projects.
 Implementation details and client-sensitive material remain private.
@@ -14,6 +16,8 @@ Implementation details and client-sensitive material remain private.
 ---
 
 ## Selected Projects
+
+## Delivery / Implementation Projects
 
 1) **Kafka Observability + MCP-Driven Diagnostics (Docker Swarm)**  
    Spec: [`projects/kafka-observability-mcp/README.md`](projects/kafka-observability-mcp/README.md)
@@ -33,20 +37,24 @@ Implementation details and client-sensitive material remain private.
 6) **Semantic Graph Analytics for Email/Calendar Workload**  
    Spec: [`projects/semantic-graph-analytics/README.md`](projects/semantic-graph-analytics/README.md)
 
-7) **Anomaly Detection: Time Series + Logs**  
-   Spec: [`projects/anomaly-detection-time-series-logs/README.md`](projects/anomaly-detection-time-series-logs/README.md)
-
-8) **Mafdet Platform Architecture (Observability + AI Analytics)**  
-   Spec: [`projects/mafdet-observability-ai-platform/README.md`](projects/mafdet-observability-ai-platform/README.md)
-
-9) **MLflow Tracking: SQLite → MySQL Migration**  
+7) **MLflow Tracking: SQLite → MySQL Migration**  
    Spec: [`projects/mlflow-tracking-mysql-migration/README.md`](projects/mlflow-tracking-mysql-migration/README.md)
 
-10) **PDF Alteration Detection with Autoencoders (Research Spec)**  
+---
+
+## Research Track
+
+8) **Anomaly Detection: Time Series + Logs**  
+   Spec: [`projects/anomaly-detection-time-series-logs/README.md`](projects/anomaly-detection-time-series-logs/README.md)
+
+9) **PDF Alteration Detection with Autoencoders (Research Spec)**  
    Spec: [`projects/pdf-alteration-detection-autoencoders/README.md`](projects/pdf-alteration-detection-autoencoders/README.md)
 
-11) **Recursive Language Model + Graph/Vector Optimization (Algorithm Selection Research)**  
-    Spec: [`projects/recursive-language-model-graph-vector-optimization/README.md`](projects/recursive-language-model-graph-vector-optimization/README.md)         
+10) **Recursive Language Model + Graph/Vector Optimization (Algorithm Selection Research)**  
+    Spec: [`projects/recursive-language-model-graph-vector-optimization/README.md`](projects/recursive-language-model-graph-vector-optimization/README.md)
+
+11) **MCP Research: Agentic Observability & Runtime Tooling**  
+    Spec: [`projects/mcp-research-agentic-observability/README.md`](projects/mcp-research-agentic-observability/README.md)      
 
 ---
 

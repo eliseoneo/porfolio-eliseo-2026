@@ -10,6 +10,9 @@ Implementation details and client-sensitive material remain private.
 - **Data pipelines**: runtime logs → structured datasets (Parquet) → analytics / anomaly detection
 - **AI/ML systems**: RAG (Qdrant), local inference (llama.cpp), fine-tuning workflows (LoRA/QLoRA)
 - **Computer vision**: detection + segmentation pipelines and benchmarking (Colab/GPU)
+- **Agentic observability**: MCP (Model Context Protocol) for tool-aware diagnostics and runtime tooling
+- **Advanced retrieval**: recursive language modeling, hybrid graph/vector retrieval, algorithm selection and benchmarking
+- **Platform architecture**: unified observability + AI analytics platforms with incremental rollout strategies
 
 ---
 

@@ -13,7 +13,43 @@ Implementation details and client-sensitive material remain private.
 
 ---
 
+# Projects Index
+
+Quick navigation of portfolio work, split into **Delivery** and **Research** tracks.
+
+## Delivery
+
+| Project | Scope (1 line) | Status |
+|---|---|---|
+| [Kafka Observability + MCP-Driven Diagnostics](kafka-observability-mcp/README.md) | Correlates Kafka metrics/logs for faster triage in Swarm environments. | Completed (Spec) |
+| [Runtime Log Adapter: Docker Logs → Parquet](logs-to-parquet/README.md) | Converts runtime logs into structured Parquet datasets for analytics/ML. | Completed (Spec) |
+| [RAG Ops Assistant (Qdrant + llama.cpp)](rag-ops-assistant/README.md) | Domain-grounded ops assistant for local inference and reduced hallucination. | Completed (Spec) |
+| [OCR → Section Extraction → MongoDB → Proposal PDF](ocr-to-proposal-pdf/README.md) | FastAPI workflow for OCR ingestion, extraction, persistence, and PDF generation. | Completed (Spec) |
+| [Food / Ingredient Detection (CV)](cv-ingredient-detection/README.md) | Detection/segmentation pipeline for ingredient recognition with benchmark loop. | In Progress (Spec) |
+| [Semantic Graph Analytics for Email/Calendar](semantic-graph-analytics/README.md) | Meaning-first graph + KPI rollups for workload and process analysis. | In Progress (Spec) |
+| [MLflow Tracking: SQLite → MySQL Migration](mlflow-tracking-mysql-migration/README.md) | Tracking backend migration for reproducible and concurrent ML experimentation. | Completed (Spec) |
+
+## Research
+
+| Project | Scope (1 line) | Status |
+|---|---|---|
+| [Anomaly Detection: Time Series + Logs](anomaly-detection-time-series-logs/README.md) | Hybrid statistical/ML methods for operational anomaly detection. | In Progress (Research Spec) |
+| [PDF Alteration Detection with Autoencoders](pdf-alteration-detection-autoencoders/README.md) | Detects potential tampering via reconstruction-error deviations. | Research (Concept/Spec) |
+| [Recursive Language Model + Graph/Vector Optimization](recursive-language-model-graph-vector-optimization/README.md) | Recursive text abstraction + hybrid retrieval with ANN/index selection. | In Progress (Research Spec) |
+| [MCP Research: Agentic Observability & Runtime Tooling](mcp-research-agentic-observability/README.md) | MCP-based tool-aware diagnostics with reliability and governance constraints. | In Progress (Research Spec) |
+
+---
+
+## Status Legend
+- **Completed (Spec):** Portfolio-ready specification finalized
+- **In Progress (Spec):** Specification active and evolving
+- **Research (Concept/Spec):** Exploratory design and evaluation plan
+
+---
+
 ## Selected Projects
+
+## Delivery / Implementation Projects
 
 1) **Kafka Observability + MCP-Driven Diagnostics (Docker Swarm)**  
    Spec: [`projects/kafka-observability-mcp/README.md`](projects/kafka-observability-mcp/README.md)
@@ -33,20 +69,24 @@ Implementation details and client-sensitive material remain private.
 6) **Semantic Graph Analytics for Email/Calendar Workload**  
    Spec: [`projects/semantic-graph-analytics/README.md`](projects/semantic-graph-analytics/README.md)
 
-7) **Anomaly Detection: Time Series + Logs**  
-   Spec: [`projects/anomaly-detection-time-series-logs/README.md`](projects/anomaly-detection-time-series-logs/README.md)
-
-8) **Mafdet Platform Architecture (Observability + AI Analytics)**  
-   Spec: [`projects/mafdet-observability-ai-platform/README.md`](projects/mafdet-observability-ai-platform/README.md)
-
-9) **MLflow Tracking: SQLite → MySQL Migration**  
+7) **MLflow Tracking: SQLite → MySQL Migration**  
    Spec: [`projects/mlflow-tracking-mysql-migration/README.md`](projects/mlflow-tracking-mysql-migration/README.md)
 
-10) **PDF Alteration Detection with Autoencoders (Research Spec)**  
+---
+
+## Research Track
+
+8) **Anomaly Detection: Time Series + Logs**  
+   Spec: [`projects/anomaly-detection-time-series-logs/README.md`](projects/anomaly-detection-time-series-logs/README.md)
+
+9) **PDF Alteration Detection with Autoencoders (Research Spec)**  
    Spec: [`projects/pdf-alteration-detection-autoencoders/README.md`](projects/pdf-alteration-detection-autoencoders/README.md)
 
-11) **Recursive Language Model + Graph/Vector Optimization (Algorithm Selection Research)**  
-    Spec: [`projects/recursive-language-model-graph-vector-optimization/README.md`](projects/recursive-language-model-graph-vector-optimization/README.md)         
+10) **Recursive Language Model + Graph/Vector Optimization (Algorithm Selection Research)**  
+    Spec: [`projects/recursive-language-model-graph-vector-optimization/README.md`](projects/recursive-language-model-graph-vector-optimization/README.md)
+
+11) **MCP Research: Agentic Observability & Runtime Tooling**  
+    Spec: [`projects/mcp-research-agentic-observability/README.md`](projects/mcp-research-agentic-observability/README.md)      
 
 ---
 

@@ -24,22 +24,22 @@ Quick navigation of portfolio work, split into **Delivery** and **Research** tra
 
 | Project | Scope (1 line) | Status |
 |---|---|---|
-| [Kafka Observability + MCP-Driven Diagnostics](kafka-observability-mcp/README.md) | Correlates Kafka metrics/logs for faster triage in Swarm environments. | Completed (Spec) |
-| [Runtime Log Adapter: Docker Logs → Parquet](logs-to-parquet/README.md) | Converts runtime logs into structured Parquet datasets for analytics/ML. | Completed (Spec) |
-| [RAG Ops Assistant (Qdrant + llama.cpp)](rag-ops-assistant/README.md) | Domain-grounded ops assistant for local inference and reduced hallucination. | Completed (Spec) |
-| [OCR → Section Extraction → MongoDB → Proposal PDF](ocr-to-proposal-pdf/README.md) | FastAPI workflow for OCR ingestion, extraction, persistence, and PDF generation. | Completed (Spec) |
-| [Food / Ingredient Detection (CV)](cv-ingredient-detection/README.md) | Detection/segmentation pipeline for ingredient recognition with benchmark loop. | In Progress (Spec) |
-| [Semantic Graph Analytics for Email/Calendar](semantic-graph-analytics/README.md) | Meaning-first graph + KPI rollups for workload and process analysis. | In Progress (Spec) |
-| [MLflow Tracking: SQLite → MySQL Migration](mlflow-tracking-mysql-migration/README.md) | Tracking backend migration for reproducible and concurrent ML experimentation. | Completed (Spec) |
+| [Kafka Observability + MCP-Driven Diagnostics](projects/kafka-observability-mcp/README.md) | Correlates Kafka metrics/logs for faster triage in Swarm environments. | Completed (Spec) |
+| [Runtime Log Adapter: Docker Logs → Parquet](projects/logs-to-parquet/README.md) | Converts runtime logs into structured Parquet datasets for analytics/ML. | Completed (Spec) |
+| [RAG Ops Assistant (Qdrant + llama.cpp)](projects/rag-ops-assistant/README.md) | Domain-grounded ops assistant for local inference and reduced hallucination. | Completed (Spec) |
+| [OCR → Section Extraction → MongoDB → Proposal PDF](projects/ocr-to-proposal-pdf/README.md) | FastAPI workflow for OCR ingestion, extraction, persistence, and PDF generation. | Completed (Spec) |
+| [Food / Ingredient Detection (CV)](projects/cv-ingredient-detection/README.md) | Detection/segmentation pipeline for ingredient recognition with benchmark loop. | In Progress (Spec) |
+| [Semantic Graph Analytics for Email/Calendar](projects/semantic-graph-analytics/README.md) | Meaning-first graph + KPI rollups for workload and process analysis. | In Progress (Spec) |
+| [MLflow Tracking: SQLite → MySQL Migration](projects/mlflow-tracking-mysql-migration/README.md) | Tracking backend migration for reproducible and concurrent ML experimentation. | Completed (Spec) |
 
 ## Research
 
 | Project | Scope (1 line) | Status |
 |---|---|---|
-| [Anomaly Detection: Time Series + Logs](anomaly-detection-time-series-logs/README.md) | Hybrid statistical/ML methods for operational anomaly detection. | In Progress (Research Spec) |
-| [PDF Alteration Detection with Autoencoders](pdf-alteration-detection-autoencoders/README.md) | Detects potential tampering via reconstruction-error deviations. | Research (Concept/Spec) |
-| [Recursive Language Model + Graph/Vector Optimization](recursive-language-model-graph-vector-optimization/README.md) | Recursive text abstraction + hybrid retrieval with ANN/index selection. | In Progress (Research Spec) |
-| [MCP Research: Agentic Observability & Runtime Tooling](mcp-research-agentic-observability/README.md) | MCP-based tool-aware diagnostics with reliability and governance constraints. | In Progress (Research Spec) |
+| [Anomaly Detection: Time Series + Logs](projects/anomaly-detection-time-series-logs/README.md) | Hybrid statistical/ML methods for operational anomaly detection. | In Progress (Research Spec) |
+| [PDF Alteration Detection with Autoencoders](projects/pdf-alteration-detection-autoencoders/README.md) | Detects potential tampering via reconstruction-error deviations. | Research (Concept/Spec) |
+| [Recursive Language Model + Graph/Vector Optimization](projects/recursive-language-model-graph-vector-optimization/README.md) | Recursive text abstraction + hybrid retrieval with ANN/index selection. | In Progress (Research Spec) |
+| [MCP Research: Agentic Observability & Runtime Tooling](projects/mcp-research-agentic-observability/README.md) | MCP-based tool-aware diagnostics with reliability and governance constraints. | In Progress (Research Spec) |
 
 ---
 

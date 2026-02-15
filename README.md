@@ -28,9 +28,10 @@ Quick navigation of portfolio work, split into **Delivery** and **Research** tra
 | [Runtime Log Adapter: Docker Logs → Parquet](projects/logs-to-parquet/README.md) | Converts runtime logs into structured Parquet datasets for analytics/ML. | Completed (Spec) |
 | [RAG Ops Assistant (Qdrant + llama.cpp)](projects/rag-ops-assistant/README.md) | Domain-grounded ops assistant for local inference and reduced hallucination. | Completed (Spec) |
 | [OCR → Section Extraction → MongoDB → Proposal PDF](projects/ocr-to-proposal-pdf/README.md) | FastAPI workflow for OCR ingestion, extraction, persistence, and PDF generation. | Completed (Spec) |
-| [Food / Ingredient Detection (CV)](projects/cv-ingredient-detection/README.md) | Detection/segmentation pipeline for ingredient recognition with benchmark loop. | In Progress (Spec) |
+| [Food / Ingredient Detection (CV)](projects/cv-ingredient-detection/README.md) | Detection/segmentation pipeline for ingredient recognition with benchmark loop. | Completed (Spec) |
 | [Semantic Graph Analytics for Email/Calendar](projects/semantic-graph-analytics/README.md) | Meaning-first graph + KPI rollups for workload and process analysis. | In Progress (Spec) |
 | [MLflow Tracking: SQLite → MySQL Migration](projects/mlflow-tracking-mysql-migration/README.md) | Tracking backend migration for reproducible and concurrent ML experimentation. | Completed (Spec) |
+| [Mafdet: Observability + AI Analytics Platform](projects/mafdet-observability-ai-platform/README.md) | Unifies metrics, logs, and operational datasets with AI-driven analysis and graph modeling. | In Progress (Spec) |
 
 ## Research
 
@@ -40,6 +41,8 @@ Quick navigation of portfolio work, split into **Delivery** and **Research** tra
 | [PDF Alteration Detection with Autoencoders](projects/pdf-alteration-detection-autoencoders/README.md) | Detects potential tampering via reconstruction-error deviations. | Research (Concept/Spec) |
 | [Recursive Language Model + Graph/Vector Optimization](projects/recursive-language-model-graph-vector-optimization/README.md) | Recursive text abstraction + hybrid retrieval with ANN/index selection. | In Progress (Research Spec) |
 | [MCP Research: Agentic Observability & Runtime Tooling](projects/mcp-research-agentic-observability/README.md) | MCP-based tool-aware diagnostics with reliability and governance constraints. | In Progress (Research Spec) |
+| [ML Model Interpretability: SHAP + LIME Analytics](projects/analitics-LIME-SHAP/README.md) | Combined SHAP and LIME framework for model explainability and auditability. | In Progress (Research Spec) |
+| [ML Model Interpretability: LIME + XGBoost Analytics](projects/analitics-LIME-XGBOOST/README.md) | LIME-based local explainability for XGBoost gradient boosting models. | In Progress (Research Spec) |
 
 ---
 
@@ -75,21 +78,30 @@ Quick navigation of portfolio work, split into **Delivery** and **Research** tra
 7) **MLflow Tracking: SQLite → MySQL Migration**  
    Spec: [`projects/mlflow-tracking-mysql-migration/README.md`](projects/mlflow-tracking-mysql-migration/README.md)
 
+8) **Mafdet: Observability + AI Analytics Platform**  
+   Spec: [`projects/mafdet-observability-ai-platform/README.md`](projects/mafdet-observability-ai-platform/README.md)
+
 ---
 
 ## Research Track
 
-8) **Anomaly Detection: Time Series + Logs**  
+9) **Anomaly Detection: Time Series + Logs**  
    Spec: [`projects/anomaly-detection-time-series-logs/README.md`](projects/anomaly-detection-time-series-logs/README.md)
 
-9) **PDF Alteration Detection with Autoencoders (Research Spec)**  
-   Spec: [`projects/pdf-alteration-detection-autoencoders/README.md`](projects/pdf-alteration-detection-autoencoders/README.md)
+10) **PDF Alteration Detection with Autoencoders (Research Spec)**  
+    Spec: [`projects/pdf-alteration-detection-autoencoders/README.md`](projects/pdf-alteration-detection-autoencoders/README.md)
 
-10) **Recursive Language Model + Graph/Vector Optimization (Algorithm Selection Research)**  
+11) **Recursive Language Model + Graph/Vector Optimization (Algorithm Selection Research)**  
     Spec: [`projects/recursive-language-model-graph-vector-optimization/README.md`](projects/recursive-language-model-graph-vector-optimization/README.md)
 
-11) **MCP Research: Agentic Observability & Runtime Tooling**  
-    Spec: [`projects/mcp-research-agentic-observability/README.md`](projects/mcp-research-agentic-observability/README.md)      
+12) **MCP Research: Agentic Observability & Runtime Tooling**  
+    Spec: [`projects/mcp-research-agentic-observability/README.md`](projects/mcp-research-agentic-observability/README.md)
+
+13) **ML Model Interpretability: SHAP + LIME Analytics**  
+    Spec: [`projects/analitics-LIME-SHAP/README.md`](projects/analitics-LIME-SHAP/README.md)
+
+14) **ML Model Interpretability: LIME + XGBoost Analytics**  
+    Spec: [`projects/analitics-LIME-XGBOOST/README.md`](projects/analitics-LIME-XGBOOST/README.md)
 
 ---
 

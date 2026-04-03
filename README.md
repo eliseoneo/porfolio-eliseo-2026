@@ -32,6 +32,7 @@ Quick navigation of portfolio work, split into **Delivery** and **Research** tra
 | [Semantic Graph Analytics for Email/Calendar](projects/semantic-graph-analytics/README.md) | Meaning-first graph + KPI rollups for workload and process analysis. | In Progress (Spec) |
 | [MLflow Tracking: SQLite → MySQL Migration](projects/mlflow-tracking-mysql-migration/README.md) | Tracking backend migration for reproducible and concurrent ML experimentation. | Completed (Spec) |
 | [Mafdet: Observability + AI Analytics Platform](projects/mafdet-observability-ai-platform/README.md) | Unifies metrics, logs, and operational datasets with AI-driven analysis and graph modeling. | In Progress (Spec) |
+| [Drone Video Streaming & Geospatial Processing](projects/dronesiq/README.md) | RTMP-based video streaming system with KMZ processing and inference integration. | Completed (Spec) |
 
 ## Research
 
@@ -43,6 +44,7 @@ Quick navigation of portfolio work, split into **Delivery** and **Research** tra
 | [MCP Research: Agentic Observability & Runtime Tooling](projects/mcp-research-agentic-observability/README.md) | MCP-based tool-aware diagnostics with reliability and governance constraints. | In Progress (Research Spec) |
 | [ML Model Interpretability: SHAP + LIME Analytics](projects/analitics-LIME-SHAP/README.md) | Combined SHAP and LIME framework for model explainability and auditability. | In Progress (Research Spec) |
 | [ML Model Interpretability: LIME + XGBoost Analytics](projects/analitics-LIME-XGBOOST/README.md) | LIME-based local explainability for XGBoost gradient boosting models. | In Progress (Research Spec) |
+| [Pollen Viability Detection (CV)](projects/pollen-viability-detection/README.md) | Computer vision pipeline for automated pollen viability assessment from microscopy images. | Completed (Spec) |
 
 ---
 
